@@ -17,11 +17,13 @@ public class NUnitPlaywright : PageTest
     [Test]
     public async Task Test1()
     {
-        
-        await Page.ClickAsync("text = Login");
+        var lnkLogin = Page.Locator("text = Login");
+        await lnkLogin.ClickAsync();
         await Page.FillAsync("#UserName","admin");
         await Page.FillAsync("#Password","password");
-        await Page.ClickAsync("text = Log in");
+
+        var inpLogin = Page.Locator("input",new PageLocatorOptions{HasTextString = "Log in"});
+        await inpLogin.ClickAsync();
         await Expect(Page.Locator("text= Employee Details")).ToBeVisibleAsync();
 
 

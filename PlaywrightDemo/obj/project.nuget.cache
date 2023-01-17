@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "lK4A0H5wEuQOqb5En5YeXQejAhkSoRYfmYU0GxQOfSZCZ+Z5bPLbvWBrkRhg+Codb8vLiHDHGWBk6oRtgVbeRQ==",
+  "dgSpecHash": "DbIJfL3jLBPikY+MSPa3y7dLiPsh6xeS+fLKXmCe5i6vcMBDk+1wSXJOAqgFt9WxRv0Ef916zy8Iw+sEVbodjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SoniaGupta\\Documents\\GitHub\\githubTest\\PlaywrightDemo\\PlaywrightDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\SoniaGupta\\.nuget\\packages\\fluentassertions\\6.9.0\\fluentassertions.6.9.0.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -23,6 +24,7 @@
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
@@ -48,6 +50,7 @@
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.runtime.handles\\4.0.1\\system.runtime.handles.4.0.1.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.runtime.interopservices\\4.1.0\\system.runtime.interopservices.4.1.0.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.runtime.serialization.primitives\\4.1.1\\system.runtime.serialization.primitives.4.1.1.nupkg.sha512",
+    "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.text.encoding.extensions\\4.0.11\\system.text.encoding.extensions.4.0.11.nupkg.sha512",
     "C:\\Users\\SoniaGupta\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
